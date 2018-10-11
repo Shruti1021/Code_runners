@@ -1,7 +1,7 @@
 # Code_runners
 Codefundo project
 
- ABSTRACT:-
+ ABSTRACT:
  
 “Our main idea is to make a mobile application which warns the masses about the upcoming danger from the data collected through various sensors installed at various places for different disasters and processed in our cloud computing system. Also prevention and management of disasters is suitably handled through our app.”
 
