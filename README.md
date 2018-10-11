@@ -31,6 +31,7 @@ Not much time is left in hand after the prediction of disasters. So as soon as s
 Details of every person to be present in our data base to help in case of need.
  
 MANAGEMENT
+
 Destruction once done can’t be done right again but with proper management things can be made better. Our app aims at helping the masses in the following manner.
 
 •	Display of a small map of the affected regions with help of water level indicators (in case of floods) and GPS system which will help       people in  moving to safer and least affected  places.
