@@ -1,13 +1,19 @@
 # Code_runners
 Codefundo project
  ABSTRACT:-
+ 
 “Our main idea is to make a mobile application which warns the masses about the upcoming danger from the data collected through various sensors installed at various places for different disasters and processed in our cloud computing system. Also prevention and management of disasters is suitably handled through our app.”
 
 PREDICTION
+
 Different sensors are installed for different natural disasters according to the type of disaster prone area.
+
 •	EARTHQUAKE - D7S seismic sensor (in tectonic plates) thermal sensor like SSM/I or NOAA-AVHRR are used.
+
 •	VOLCANO - gas sensors are used.
+
 •	FLOOD, STORM, CYCLONE - detected by the help of local weather forecasting stations.
+
 Data is send through low power Wide area network (loraWAN technology) to the cloud computing system.
 
 PREVENTION
